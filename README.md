@@ -1,2 +1,2 @@
-# HAVELSAN-PROJE-L-MAN
+# HAVELSAN-PROJE-LIMAN
 Açık Kaynak Yazılım Geliştirme 
